@@ -1,7 +1,13 @@
 # Cave Explorer
 Collect gems, don't fall, get rich. Cave-themed, visually aesthetic platformer.
 
-| ![screenshot2](media/cave-explorer-screenshot02.png)  | ![screenshot1](media/cave-explorer-screenshot01.png)  | ![screenshot0](media/cave-explorer-screenshot00.png)  |
+<table>
+  <tr>
+    <td><img src="media/cave-explorer-screenshot00.png" alt="main menu" width="200"/></td>
+    <td><img src="media/cave-explorer-screenshot02.png" alt="Screen 1" width="200"/></td>
+    <td><img src="media/cave-explorer-screenshot01.png" alt="Screen 2" width="200"/></td>
+  </tr>
+</table>
 
 Made 4 years ago for a programming assignment. This was the first game (not on Scratch, that is) that I ever made, so I wouldn't be surprised if you find a bug or two. Produced in Java, Processing. There are only two levels, but they're cute ones!
 
