@@ -14,3 +14,5 @@ Made 4 years ago for a programming assignment. This was the first game (not on S
 I'm not particularly proud of my coding habits back in the day, just thought this was a cool showcase of my early computational art skills. However, this repo serves as a testament as to how much my coding habits have improved since I first picked up Java.
 
 Find the Itch.io download page [here](https://joel-ca.itch.io/cave-explorer).
+
+[Watch the demo video.](https://youtu.be/NJtRTk5r7jk)
